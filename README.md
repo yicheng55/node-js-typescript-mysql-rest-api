@@ -80,3 +80,9 @@ Integration (run back-end & front-end on same server/port)
 > [Integrate Angular with Node.js Restful Services](https://www.bezkoder.com/integrate-angular-10-node-js/)
 
 > [Integrate Vue with Node.js Restful Services](https://www.bezkoder.com/serve-vue-app-express/)
+
+## testcode001
+get: http://127.0.0.1:8080/api/tutorials
+
+res:
+[{"id":1,"title":"test00001","description":"test00001","published":null},{"id":2,"title":"test00001","description":"test00001","published":null},{"id":3,"title":"test00003","description":"test00003","published":5},{"id":4,"title":"test00003","description":"test00003","published":5}]
